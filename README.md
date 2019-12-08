@@ -22,7 +22,9 @@ $npm start
 
 ## Screenshots
 
-Coming soon
+![Homepage](screenshots/red5.png "Landing page")
+![Playlist](screenshots/yellow5.png "Playlist page")
+![NowPlaying](screenshots/pink5.png "Now playing")
 
 ## Built With
 
