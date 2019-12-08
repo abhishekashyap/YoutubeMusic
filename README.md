@@ -26,6 +26,9 @@ $npm start
 ![Playlist](screenshots/yellow5.png "Playlist page")
 ![NowPlaying](screenshots/pink5.png "Now playing")
 
+## Downloads
+* [Releases](https://github.com/abhishekashyap/YoutubeMusic/releases)
+
 ## Built With
 
 * [Electron](https://electronjs.org) - The web framework used for development of desktop GUI applications.
