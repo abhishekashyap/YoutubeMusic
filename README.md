@@ -32,7 +32,9 @@ $npm start
 
 ## Coming soon
 
-Coming soon
+-> Notifications
+-> Keyboard playback shortcuts
+-> Performance optimizations
 
 ## Contributing
 
